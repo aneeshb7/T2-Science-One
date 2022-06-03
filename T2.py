@@ -1,5 +1,5 @@
 """
-Author: Smarth Gupta and Aneesh Bulusu
+Author: Aneesh Bulusu and Smarth Gupta
 Date: March 22 2020
 Description: An Euler method simulation of a steel ball bearing being dropped into a 
 tube of canola oil with infinite radius and infinite depth. 
